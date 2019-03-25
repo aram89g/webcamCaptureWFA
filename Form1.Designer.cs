@@ -126,19 +126,18 @@
             // 
             this.Camera_Selection_Left.FormattingEnabled = true;
             resources.ApplyResources(this.Camera_Selection_Left, "Camera_Selection_Left");
-            this.Camera_Selection_Left.Name = "Camera_Selection_Left";
+            this.Camera_Selection_Left.Name = "Camera_Selection_Left";           
             // 
             // Camera_Selection_Right
             // 
             this.Camera_Selection_Right.FormattingEnabled = true;
             resources.ApplyResources(this.Camera_Selection_Right, "Camera_Selection_Right");
-            this.Camera_Selection_Right.Name = "Camera_Selection_Right";
+            this.Camera_Selection_Right.Name = "Camera_Selection_Right";           
             // 
             // textBox2
             // 
             resources.ApplyResources(this.textBox2, "textBox2");
             this.textBox2.Name = "textBox2";
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
             // 

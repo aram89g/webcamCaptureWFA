@@ -6,7 +6,6 @@ c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\bin\Debug\Emgu.CV.
 c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\bin\Debug\ZedGraph.dll
 c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\bin\Debug\Emgu.CV.UI.xml
 c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\bin\Debug\Emgu.CV.World.xml
-c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\obj\Debug\webcamCaptureWFA.csprojResolveAssemblyReference.cache
 c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\obj\Debug\webcamCaptureWFA.Form1.resources
 c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\obj\Debug\webcamCaptureWFA.Properties.Resources.resources
 c:\users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\obj\Debug\webcamCaptureWFA.csproj.GenerateResource.cache
@@ -20,3 +19,4 @@ C:\Users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\bin\Debug\webcamCa
 C:\Users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\bin\Debug\webcamCaptureWFA.application
 C:\Users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\obj\Debug\webcamCaptureWFA.exe.manifest
 C:\Users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\obj\Debug\webcamCaptureWFA.application
+C:\Users\aram8\source\repos\webcamCaptureWFA\webcamCaptureWFA\obj\Debug\webcamCaptureWFA.csprojAssemblyReference.cache
